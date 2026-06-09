@@ -83,7 +83,7 @@ This page explains the data source, model output, assumptions, and dashboard int
 ## Folder Structure
 
 ```text
-Credit-Risk-Analytics-main/
+Credit-Risk-Analytics/
 │
 ├── dashboard_snaps/
 │   ├── portfolio_health.png
