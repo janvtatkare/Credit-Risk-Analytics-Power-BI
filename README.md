@@ -7,7 +7,7 @@
 
 ## Overview
 
-The **Credit Risk Analytics Dashboard** is a Power BI report designed to analyze LendingClub loan risk, borrower behavior, default patterns, and portfolio performance.
+The **Credit Risk Analytics Dashboard** is a Power BI report designed to analyze loan risk, borrower behavior, default patterns, and portfolio performance.
 
 The dashboard helps users understand how loan characteristics such as grade, purpose, interest rate, debt-to-income ratio, and predicted default probability impact credit risk. It provides an interactive view of portfolio health, risk segmentation, loan-level details, and model-driven insights.
 
